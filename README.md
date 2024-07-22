@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallllluuuuu" alt="hallllluuuuu" /></a> </p>
 
-- 🔭 I’m currently working on **an Portfolio**
+- 🔭 I’m currently working on **a Portfolio**
 
-- 🌱 I’m currently learning **courses with Raspberry Pi or Arduino. But also some websites and automated scripts in Linux**
+- 🌱 I’m currently learning **courses with Raspberry Pi or Arduino. But also some websites and automated scripts on Linux**
 
 - 👯 I’m looking to collaborate on **an e-commerce website**
 
 - 📫 How to reach me **@k33p_it_halal at Discord**
 
-- 📄 Know about my experience [coming soon...](coming soon...)
+- 📄 Know about my experience [coming soon...]
 
 - ⚡ Fun fact **Without air we can't live**
 
