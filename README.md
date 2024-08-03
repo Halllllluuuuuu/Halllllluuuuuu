@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallllluuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="hallllluuuuu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallllluuuuu" alt="hallllluuuuu" /></a> </p>
-
 - 🔭 I’m currently working on **a Portfolio**
 
 - 🌱 I’m currently learning **courses with Raspberry Pi or Arduino. But also some websites and automated scripts on Linux**
