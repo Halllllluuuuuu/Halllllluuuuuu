@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallllluuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="hallllluuuuu" /> </p>
 
-- 🔭 I’m currently working on **a Portfolio**
+- 🔭 currently working on **a Portfolio**
 
-- 🌱 I’m currently learning **courses with Raspberry Pi or Arduino. But also some websites and automated scripts on Linux**
+- 🌱 learning **courses with Raspberry Pi or Arduino. But also some websites and automated scripts on Linux**
 
 - 👯 I’m looking to collaborate on **an e-commerce website**
 
 - 📫 How to reach me **@k33p_it_halal at Discord**
 
-- 📄 Know about my experience [coming soon...]
-
-- ⚡ Fun fact **Without air we can't live**
+*Remember: The journey will be long but it is worth it. - One Piece 🏴‍☠️*
 
 
 <p align="left">
