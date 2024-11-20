@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **an e-commerce website**
 
-- 📫 How to reach me **@k33p_it_halal at Discord**
+- 📫 How to reach me **rmy.dev at Discord**
 
 *Remember: The journey will be long but it is worth it. - One Piece 🏴‍☠️*
 
