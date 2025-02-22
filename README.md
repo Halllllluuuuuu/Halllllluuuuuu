@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **an e-commerce website**
 
-- 📫 How to reach me **ethereal.dreams. at Discord and Instagram**
+- 📫 How to reach me **ethereal.dreams. at Discord**
 
 *Remember: The journey will be long but it is worth it. - One Piece 🏴‍☠️*
 
