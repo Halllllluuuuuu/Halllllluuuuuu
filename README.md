@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallllluuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="hallllluuuuu" /> </p>
 
-- 🔭 currently working on **a Portfolio**
-
-- 🌱 learning **courses with Raspberry Pi or Arduino. But also some websites and automated scripts on Linux**
-
-- 👯 I’m looking to collaborate on **an e-commerce website**
+- 🔭 currently working on **some SQL revisions**
 
 - 📫 How to reach me **ethereal.dreams. at Discord**
 
